@@ -1,0 +1,25 @@
+export default {
+  "users":[
+    {
+      "username":"amit_motgi",
+      "uri":"/plays/amit_motgi",
+      "plays":[
+        "E75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "E75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "68B4D809-4B4F-F735-EB92-E5B17C99220B"
+      ]
+    },
+    {
+      "username":"loris_stuckey",
+      "uri":"/plays/loris_stuckey",
+      "plays":[
+        "A75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "B75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "E75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "E75C38C1-E2BB-BAF6-620B-9255D035B693",
+        "68B4D809-4B4F-F735-EB92-E5B17C99220B"
+      ]
+    }
+  ],
+  "uri":"/plays"
+};
